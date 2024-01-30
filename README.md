@@ -1,4 +1,7 @@
-# Robust Automatic Monocular Vehicle Speed Estimation for Traffic Surveillance #
+# This is a running repository for the ICCV 2021 paper 
+
+
+### Robust Automatic Monocular Vehicle Speed Estimation for Traffic Surveillance #
 This repository contains the implementation of the following [paper](https://europe.naverlabs.com/research/publications/robust-and-automatic-monocular-vehicle-speed-estimation-for-traffic-surveillance/):
 
 ```text
